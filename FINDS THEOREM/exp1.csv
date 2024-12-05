@@ -1,0 +1,5 @@
+﻿Time,Weather,Company,Temperature,Humidity,Wind,Play
+M,Sunny,Yes,Warm,Mild,Strong,Yes
+E,Rainy,No,Cold,Mild,Normal,No
+M,Rainy,Yes,Moderate,Normal,Normal,Yes
+E,Sunny,Yes,Cold,High,Strong,Yes
